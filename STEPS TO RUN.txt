@@ -1,0 +1,5 @@
+Use Xampp for Localhost
+
+npm start
+
+import the database file on the folder
